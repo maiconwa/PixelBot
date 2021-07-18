@@ -6,6 +6,11 @@
  <p>
  !Bot = Comando para o PixelBot responder com uma mensagem.
  <br>!D20 = Um número aleatório de 1 á 20 é gerado.
+ 
+ <br>
+ <img src=https://github.com/maiconwa/PixelBot/blob/main/imagens/funcionamento.PNG?raw=true>
+ <br>
+ 
  </p>
  
  Uso:
@@ -13,6 +18,10 @@
  Para uso é necessário inserir o TOKEN do bot da API do discord. Basta substituir o 'Insira aqui o seu TOKEN do bot do discord!' pelo TOKEN do BOT.
       
       client.run('Insira aqui o seu TOKEN do bot do discord!')
+ 
+ <br>
+ <img src=https://github.com/maiconwa/PixelBot/blob/main/imagens/tokenpath.PNG?raw=true>
+ <br>
  </p>
  <p>
  Para criar um BOT para discord é necessário acessar a pagina de desenvolvimento do discord e utilizar a API para a criação de BOTs:
