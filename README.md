@@ -1,5 +1,5 @@
 # PixelBot:robot:
- PixelBot é um bot para discord com função de rolagem de dados. Porém, pode ser adaptado para usos diversos. 
+ PixelBot é um bot para discord com função de rolagem de dados. Porém, o script de python pode ser adaptado para usos diversos para qualquer BOT de discord. 
  
  Atualização:
  Comandos funcionais no discord:
