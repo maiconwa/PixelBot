@@ -42,7 +42,7 @@ Update: Functional commands on Discord:
  
 More information about creating Discord bots can be found in the official documentation:
  
- [Documentação](https://discord.com/developers/docs/intro)
+ [Docs](https://discord.com/developers/docs/intro)
  
        https://discord.com/developers/docs/intro
  </p>
