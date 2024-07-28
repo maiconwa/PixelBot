@@ -7,8 +7,11 @@ Important: This project is still in progress.
 Update: Functional commands on Discord:
 
  <p>
+  
       !Bot: Command for PixelBot to respond with a message.
+      
  <br>
+  
       !D20: Generates a random number from 1 to 20.
  
  <br>
