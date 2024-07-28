@@ -19,7 +19,8 @@ Update: Functional commands on Discord:
  <br>
  
  </p>
- PixelBot Functionality
+ PixelBot Functionality:
+ 
  <p>
  Usage: To use it, you need to insert the bot’s API TOKEN for Discord. Simply replace 'Insert your Discord bot TOKEN here!' with your actual BOT TOKEN:
       
