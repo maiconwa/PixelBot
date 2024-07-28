@@ -20,4 +20,4 @@ async def on_message(mensagem):
     if mensagem.content.startswith('!D20'):
         await mensagem.channel.send(randint(1, 20))
 
-client.run('Insira aqui o seu TOKEN do bot do discord!')
+client.run('Insert your Discord bot TOKEN here!')

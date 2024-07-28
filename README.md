@@ -1,38 +1,39 @@
-# PixelBot:robot:
- PixelBot é um bot para discord com função de rolagem de dados. Porém, o script de python pode ser adaptado para usos diversos para qualquer BOT de discord. 
- 
- Importante: Este projeto ainda está em andamento.
- 
- Atualização:
- Comandos funcionais no discord:
+# PixelBot:
+
+PixelBot is a Discord bot with dice rolling functionality. However, the Python script can be adapted for various uses with any Discord bot.
+
+Important: This project is still in progress.
+
+Update: Functional commands on Discord:
+
  <p>
- !Bot = Comando para o PixelBot responder com uma mensagem.
- <br>!D20 = Um número aleatório de 1 á 20 é gerado.
+      !Bot: Command for PixelBot to respond with a message.
+ <br>
+      !D20: Generates a random number from 1 to 20.
  
  <br>
  <img src=https://github.com/maiconwa/PixelBot/blob/main/imagens/funcionamento.PNG?raw=true>
  <br>
  
  </p>
- 
- Uso:
+ PixelBot Functionality
  <p>
- Para uso é necessário inserir o TOKEN do bot da API do discord. Basta substituir o 'Insira aqui o seu TOKEN do bot do discord!' pelo TOKEN do BOT.
+ Usage: To use it, you need to insert the bot’s API TOKEN for Discord. Simply replace 'Insert your Discord bot TOKEN here!' with your actual BOT TOKEN:
       
-      client.run('Insira aqui o seu TOKEN do bot do discord!')
+      client.run('Insert your Discord bot TOKEN here!')
  
  <br>
  <img src=https://github.com/maiconwa/PixelBot/blob/main/imagens/tokenpath.PNG?raw=true>
  <br>
  </p>
  <p>
- Para criar um BOT para discord é necessário acessar a pagina de desenvolvimento do discord e utilizar a API para a criação de BOTs:
+ To create a bot for Discord, you’ll need to access the Discord Developer Portal and use the API for bot creation. 
  
  [Discord Developer Portal](https://discord.com/developers/applications)
         
        https://discord.com/developers/applications
  
- Mais informações sobre criações de BOT para discord paodem ser encontradas na pagina oficial:
+More information about creating Discord bots can be found in the official documentation:
  
  [Documentação](https://discord.com/developers/docs/intro)
  
